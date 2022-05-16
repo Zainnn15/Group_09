@@ -1,6 +1,6 @@
 # Group_09
 
-In this project we wanted to make a website that can be used in real life applications, so we have decided to make a website for buying groceries online. So we are going to have features such as creating an account, online payment, promotions, mobile checkout. The website will allow customers to buy grocieries and get it delivered right to their door steps with the delivery option. 
+We wanted to develop a website that could be used in real life applications for this project, therefore we decided to make an online grocery shopping website. As a result, we'll have features like sign up, online payment, promotions, and mobile checkout. Customers will be able to purchase groceries on the website and have them delivered to their doorstep using the delivery option.
 
 This website will be created using HTML and CSS for front end. For the back-end we will be using Python and django framework OR Javascript and for the database we will be using MYSQL.
 
