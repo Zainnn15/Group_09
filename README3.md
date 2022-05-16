@@ -9,3 +9,17 @@ This website will be created using HTML and CSS for front end. For the back-end 
 | Back-End Developer & Database Specialist | Zain         |
 | Back-End Developer & Database Specialist | Rupin        |
 
+
+Project Timeline:
+
+Our project will be completed in three months.
+
+Planning and designing: 1 week
+
+Database designing: 1 week
+
+Front end and Back end Development 2 months
+
+Website Testing: 1 week
+
+Bugs resolution after testing: 1 week
