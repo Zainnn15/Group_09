@@ -12,7 +12,7 @@ This website will be created using HTML and CSS for front end. For the back-end 
 
 Project Timeline:
 
-Our project will be completed in three months.
+Our project will be completed in three months
 
 Planning and designing: 1 week
 
