@@ -1,4 +1,4 @@
-In this project we will be creating a website to correspond with real time flight tickets. This website will reflect domestic and international flight ticket prices  for real time application use. Within this flight ticket price predictor we will be having many features such as allowing the user to log in with the correct credentials to access the application as well as help the traveller get access to future price predictions of indiviudal airlines.
+We will create a website to connect with real-time flight tickets in this project. For real-time application use, this website will show domestic and international flight ticket costs. Many features will be included in this flight ticket price predictor, such as allowing users to log in with the right credentials to use the programme and assisting travellers in obtaining future pricing projections from certain airlines.
 
 This website will be created using HTML and CSS for front end. For the back-end we will be using Python and django framework OR Javascript and for the database we will be using MYSQL. 
 
