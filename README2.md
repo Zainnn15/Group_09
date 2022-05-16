@@ -1,4 +1,4 @@
-In this project we planned to make a website that will allow the application to have real life aspects in the program. So we have decided to make a website for tracking couriers online and we are going to have a feature that will allow the receiver to track his/her courier online and be able to see their ordered goods. This also allows the system to be in different domains for tracking the ordered goods. 
+We wanted to create a website for this project that would allow the application to have real-life aspects. So we've decided to create a website for tracking couriers online, complete with a function that allows the recipient to follow his or her courier online and view their requested products. This also allows the system to track the ordered products across many domains.
 
 This website will be created using HTML and CSS for front end. For the back-end we will be using Python and django framework OR Javascript and for the database we will be using MYSQL.
 
