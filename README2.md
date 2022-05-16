@@ -9,5 +9,5 @@ This website will be created using HTML and CSS for front end. For the back-end 
 | Front-end Developer                      | Sama         |
 | Front-end Developer & QA Tester          | Berhan       |
 | Back-End Developer & Database Specialist | Zain         |
-| Back-End Developer & Database Specialist | Rupin   .     |
+| Back-End Developer & Database Specialist | Rupin        |
 
