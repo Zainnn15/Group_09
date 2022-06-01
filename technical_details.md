@@ -7,7 +7,7 @@ for various platforms like iOS and Android. It is the best option for cross-plat
 There are several benefits of React Native for mobile application development. Almost 95% or more than that the code is cross-platform which means it is compatible with both iOS and Android, developers build one app and in the end, two apps are created. It has fast performance because the programming language is optimized for mobile devices due to the advantage of the graphics processing units which makes them much faster than other technologies. The interface used in React Native makes it easy for developers to continue work where someone else left off and continue building. This makes it easy to update and upgrade mobile applications. 
 
 ### Bootstrap
-Bootstrap is the leading CSS framework for developing responsive and mobile-first websites. This free and open-source toolkit comes with a responsive grid system, global CSS settings, extensive pre-built components including buttons, navbars, and forms, and optional JavaScript plugins to speed up the development process.
+[Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/download/) is the leading CSS framework for developing responsive and mobile-first websites. This free and open-source toolkit comes with a responsive grid system, global CSS settings, extensive pre-built components including buttons, navbars, and forms, and optional JavaScript plugins to speed up the development process.
 Though Bootstrap is an open-source toolkit for developing with HTML, CSS, and JavaScript, it is often referred to as a CSS framework.
 
 
@@ -26,5 +26,5 @@ MYSQL was my first choice because it is open source, dependable, accessible with
 
 ## Developing Tools
 
-This website will be developed using [Visual Studio Code](https://code.visualstudio.com/) with extensions such as live server, live share, react icons, and Rest client(is a postman for vs code), [Bootstrap 3.3](https://getbootstrap.com/docs/3.3/), and [JQuery](https://jquery.com/) libraries. [Postman](https://www.postman.com/) was used to testing a number of HTTP requests in order to decouple back-end and front-end tasks.
+This website will be developed using [Visual Studio Code](https://code.visualstudio.com/) with extensions such as live server, live share, react icons, and Rest client(is a postman for vs code), [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/download/), and [JQuery](https://jquery.com/) libraries. [Postman](https://www.postman.com/) was used to testing a number of HTTP requests in order to decouple back-end and front-end tasks.
 
