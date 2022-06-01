@@ -9,6 +9,12 @@ There are several benefits of React Native for mobile application development. A
 ### Angular
 Angular is a component of the JavaScript ecosystem, which is used to create mobile and desktop web apps. When working with the latest Angular versions, however, developers don't use JavaScript; instead, they use HTML and TypeScript, a JavaScript superset. Effective Cross-Platform Development, High Application Quality, Increased Productivity and Improved, Legible and Verifiable Code, More Compact Web Services, Efficient Issue Patterns, and Excellent Design Patterns Library are just a few of the benefits.
 
+### Bootstrap
+
+Bootstrap is the leading CSS framework for developing responsive and mobile-first websites. This free and open-source toolkit comes with a responsive grid system, global CSS settings, extensive pre-built components including buttons, navbars, and forms, and optional JavaScript plugins to speed up the development process.
+Though Bootstrap is an open-source toolkit for developing with HTML, CSS, and JavaScript, it is often referred to as a CSS framework.
+
+
 ## Choice of backend tool
 ### Node js
 Node js is an asynchronous javascript runtime that is designed to build scalable network applications. It is used for non-blocking and event-driven servers. The way people are easily able to use Node.js is of the huge number of libraries made by other people in the coding community. This would help us program our online grocery shopping website because we can use its event loop to assist the in-store pickup and checkout system. 
