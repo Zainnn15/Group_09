@@ -26,5 +26,5 @@ MYSQL was my first choice because it is open source, dependable, accessible with
 
 ## Developing Tools
 
-This website will be developed using [Visual Studio Code](https://code.visualstudio.com/) with extensions such as live server, live share, react icons, and Rest client(is a postman for vs code), [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/download/), and [JQuery](https://jquery.com/) libraries. [Postman](https://www.postman.com/) was used to testing a number of HTTP requests in order to decouple back-end and front-end tasks.
+This website will be developed using [Visual Studio Code](https://code.visualstudio.com/) with extensions such as live server, live share, react icons, and Rest client(is a postman for vs code). [Postman](https://www.postman.com/) was used to testing a number of HTTP requests in order to decouple back-end and front-end tasks.
 
