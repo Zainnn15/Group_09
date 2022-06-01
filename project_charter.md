@@ -8,3 +8,7 @@ Current Version: 1.0
 
 Project managers (and sponsors): Zain, Rupin, Sama, Berhan
 
+
+Overview
+
+Zain, Rupin, Sama, Berhan, members of group 9, and students at Seneca are planning to develop an online grocery website to allow delivery from local grocery stores to customers' homes. 
