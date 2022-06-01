@@ -6,11 +6,7 @@ HTML is simple to learn and apply, and it's a valuable ability to have in our to
 for various platforms like iOS and Android. It is the best option for cross-platform development projects because it is cost and time-efficient, community-driven, has comprehensive libraries, and code reusability and it has great performance and a flexible framework. React native is a programming framework developed by Facebook that allows developers the ability to create full, native mobile applications for iOS and Android users by using a universal programming language called JavaScript. 
 There are several benefits of React Native for mobile application development. Almost 95% or more than that the code is cross-platform which means it is compatible with both iOS and Android, developers build one app and in the end, two apps are created. It has fast performance because the programming language is optimized for mobile devices due to the advantage of the graphics processing units which makes them much faster than other technologies. The interface used in React Native makes it easy for developers to continue work where someone else left off and continue building. This makes it easy to update and upgrade mobile applications. 
 
-### Angular
-Angular is a component of the JavaScript ecosystem, which is used to create mobile and desktop web apps. When working with the latest Angular versions, however, developers don't use JavaScript; instead, they use HTML and TypeScript, a JavaScript superset. Effective Cross-Platform Development, High Application Quality, Increased Productivity and Improved, Legible and Verifiable Code, More Compact Web Services, Efficient Issue Patterns, and Excellent Design Patterns Library are just a few of the benefits.
-
 ### Bootstrap
-
 Bootstrap is the leading CSS framework for developing responsive and mobile-first websites. This free and open-source toolkit comes with a responsive grid system, global CSS settings, extensive pre-built components including buttons, navbars, and forms, and optional JavaScript plugins to speed up the development process.
 Though Bootstrap is an open-source toolkit for developing with HTML, CSS, and JavaScript, it is often referred to as a CSS framework.
 
