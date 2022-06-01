@@ -19,7 +19,7 @@ Express is an application part of node js that provides features for building we
 
 ## Choice of Database
 ### MYSQL
-MYSQL was my first choice because it is open source, dependable, accessible with all significant web hosts, and simple to use. MySQL's data security and powerful transaction features are being used by many businesses to safeguard online transactions and improve consumer interactions.
+We are using MYSQL because it is open source, dependable, accessible with all significant web hosts, and simple to use. MySQL's data security and powerful transaction features are being used by many businesses to safeguard online transactions and improve consumer interactions.
 
 
 ## Developing Tools
