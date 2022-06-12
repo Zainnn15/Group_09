@@ -1,7 +1,7 @@
 ## Customer creates account (done by Berhan)
 
 ### Actor (User)
-Customer must create an account to fully access the system with valid identification to create account in the system.
+Customer must create an account to fully access the grocery website system 
 
 ### Pre-conditions
 Customer has valid identification. Information about the customer must be accurate to deliver to residence.
