@@ -1,0 +1,92 @@
+ 
+June 12, 2022
+Current Version: 1.0
+Overview
+Our group members are developing an online grocery delivery website to provide ease for the customers to get their groceries online and enhance the customer base of a super store.
+Milestones
+List of technological choices for front-end, back-end and databases Technical_Details_2 
+Complete website with working features
+Presentation to defend project in front of professor
+Test the website at project defense
+Complete login/signup page
+Complete add to cart feature (Will be done by Berhan )
+Complete feature where employees will label products as out of stock or in stock
+Complete feature where delivery team can message each other if an item is missing from the order
+Complete feature where it tells the customer when the order has been delivered to their house
+Complete feature where customer can refund an order
+Complete feature where customers can message customer support 
+Complete a properly working website with a database 
+Deliverables
+Development of front-end using HTML and CSS (Will be done by Sama Abdul Wahab)
+Development of Database diagrams (ERD) and database (Will be done by Sama Abdul Wahab )
+Writing back-end and connecting front end with database (Will be done by Rupin)
+Test the website for debugging purposes (Will be done by Zain)
+Make a presentation for project defense (Will be done by Rupin)
+Promote the website using different advertising methods (Will be done by Sama Abdulwahab)
+Prerecorded teaching tutorials on how to use the website for new customers (Will be done by Berhan )
+Product search functions available to improve website operations (Will be done by Rupin)
+Add to cart/product wishlist optimization (Will be done by Zain)
+Optimized payment processor for customers  (Will be done by Berhan ) 
+Tools for employer/manager to assess and assist customers accessing website  (Will be done by Berhan )
+Tools for delivery team and employees/managers to communicate with each other (Will be done by Zain)
+5. Risks, Assumptions, and Constraints
+Follwing are the risks, assumptions and constraints of the project:
+5.1 Risks
+Not finding a good hosting service will increase faults and down-time of the website.
+Learning new technologies can be difficult for group members that will make it hard to provide deliverables on time.
+Customers can find it hard to use the website.
+   5.2 Assumptions
+Group members will learn new technologies and tools to develop website.
+The website will be used by super stores.
+The customers will find it helpful to do groceries online.
+There will be negligible down-time of website with more than 99.99% uptime.
+5.3 Constraints
+Superstore may find it difficult to share information.
+No survey has been done to know the expected customer base of this product.
+ 6. Organization/Stakeholders
+
+Project Role
+Responsibilities
+Assigned to
+Project Manager
+Design and maintain the website
+Sama Abdul Wahab
+Front end developers
+Develop the front-end
+ Sama and  
+Backend Developers
+Develop back-end
+
+
+
+
+Database Developers
+Develop ERD and database
+
+
+
+
+
+ 7. Use Cases
+By sama abdulwahab
+Actor (User)
+User will create an account on the website.
+Pre-conditions
+User has come to the landing/home page of the website.
+Main Flow
+The user will click on the sign-up button.
+A form will be opened to get user details.
+User will enter his/her details.
+An OTP will be sent to user’s email 
+User will enter the correct OTP.
+User account will be made and he/she will be signed-in to start shopping.
+Alternate Flows
+If any connection issues arise, preventing the message to be sent before it times out:
+The system will add an error message, warning the user that the request was not sent.
+If a user clicks on Close, instead of Submit:
+Home page opens up.
+The user enters wrong OTP
+The system will add an error message, warning the user that the OTP was incorrect and the request was not sent.
+Postconditions
+After the user has successfully requested for sign-up, a user account will be made and he/she will start shopping.
+ 
