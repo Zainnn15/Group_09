@@ -1,6 +1,6 @@
-## Customer creates account (done by Berhan)
+## Deliver Order to customer (done by Zain)
 
-### Actor (Customer)
+### Actor (Delivery driver)
 Customer must create an account to fully access the grocery website system 
 
 ### Pre-conditions
