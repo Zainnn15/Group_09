@@ -1,10 +1,10 @@
-## Sending Messages to Groups (done by Marcel)
+## Deliver Order to customer (done by Zain)
 
-### Actor (User)
-Faculty with a valid account in the system.
+### Actor (Delivery driver)
+The delivery driver must pick up the given order from local gorecire store and deliver it to the customer
 
 ### Pre-conditions
-Faculty is logged into the system. Information about all groups is already stored in the database.
+Customer has valid identification. Information about the customer must be accurate to deliver to residence.
 
 ### Main Flow
 1. The faculty clicks on the **Groups** tab on the BTR490 website.
@@ -22,4 +22,5 @@ Faculty is logged into the system. Information about all groups is already store
   1. The modal disappears, and no further action is taken by the system. The contents of the modal will remain, though. Allowing the faculty to pick another group to send the message, for example.
 
 ### Postconditions
-After a faculty has succesfully send a message, each member of the group (as well as the faculty) receives an email with its contents.
+Once the customer has successfully registered and created an account, they will receive a confirmation email to validate registration.
+
