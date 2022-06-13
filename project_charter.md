@@ -49,21 +49,21 @@ Zain, Rupin, Sama, Berhan, members of group 9, and students at Seneca are going 
 
 ### 5.1 Risks
 
--Not finding a good hosting service will increase faults and down-time of the website.
--Learning new technologies can be difficult for group members that will make it hard to provide deliverables on time.
--Customers can find it hard to use the website.
+- Not finding a good hosting service will increase faults and down-time of the website.
+- Learning new technologies can be difficult for group members that will make it hard to provide deliverables on time.
+- Customers can find it hard to use the website.
 
 ### 5.2 Assumptions
 
--Group members will learn new technologies and tools to develop website.
--The website will be used by super stores.
--The customers will find it helpful to do groceries online.
--There will be negligible down-time of website with more than 99.99% uptime.
+- Group members will learn new technologies and tools to develop website.
+- The website will be used by super stores.
+- The customers will find it helpful to do groceries online.
+- There will be negligible down-time of website with more than 99.99% uptime.
 
 ### 5.3 Constraints
 
--Superstore may find it difficult to share information.
--No survey has been done to know the expected customer base of this product.
+- Superstore may find it difficult to share information.
+- No survey has been done to know the expected customer base of this product.
 
 
 ## 6. Organization/Stakeholders
