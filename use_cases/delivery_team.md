@@ -1,7 +1,7 @@
 ## Deliver Order to customer (done by Zain)
 
 ### Actor (Delivery driver)
-Customer must create an account to fully access the grocery website system 
+The delivery driver must pick up the given order from local gorecire store and deliver it to the customer
 
 ### Pre-conditions
 Customer has valid identification. Information about the customer must be accurate to deliver to residence.
