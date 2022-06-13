@@ -7,12 +7,12 @@ User will successfully order groceries on the website
 User has created an existing account on the website
 
 ### Main Flow
-1	The user will click on the login button.
-2	The user will enter username and password and successfully login
-3	The user will select the groceries they would like to purchase and add them to cart
-4	The user will add the correct shipping information to receive their groceries
-5	User will have to add payment method for checkout
-6	The user will successfully checkout their groceries
+1.The user will click on the login button.
+2.The user will enter username and password and successfully login
+3.The user will select the groceries they would like to purchase and add them to cart
+4.The user will add the correct shipping information to receive their groceries
+5.User will have to add payment method for checkout
+6.The user will successfully checkout their groceries
 
 ### Alternate Flows
 
