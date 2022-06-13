@@ -7,13 +7,13 @@ The delivery driver must pick up the given order from local gorecire store and d
 Driver has valid identification. Information about the driver must be accurate to send orders to residence.
 
 ### Main Flow
-1. The faculty clicks on the **Groups** tab on the BTR490 website.
-2. The system loads a list of all groups.
-3. The faculty clicks on a **send message** hyperlink below a group's list of members.
-4. The system brings up a model containing a form for the faculty to enter the email's subject and contents.
-5. The faculty fills up both fields.
-6. The faculty clicks on a **Submit** button to send the message to all students.
-7. After the system succesfuly sends the message, the modal disapears.
+1. The driver gets a nodafication on his/her phone that a customer has ordered and must be delivered.
+2. Driver goes to the gorecie store customer has ordered from
+3. Driver shows employee the order number and picks up the order
+4. Driver drives to the given address from the app
+5. Driver arrives and drops the order at the customer door and takes a picture
+6. Driver sends the picture to the customer on the app to notify it has arrived
+7. Driver repeats 1-6
 
 ### Alternate Flows
 - If any connection issues arise, preventing the message to be sent before it times out: 
