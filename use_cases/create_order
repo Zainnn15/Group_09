@@ -16,7 +16,7 @@ User has created an existing account on the website
 
 ### Alternate Flows
 
-○		If any connection issues arise, preventing the message to be sent before it times out:
+○	If any connection issues arise, preventing the message to be sent before it times out:
 ■	The system will add an error message, warning the user that the shipping address is not valid, effectively sending him/her back to step 4.
 ■	The system will add an error message, warning the user that the payment method is not valid, effectively sending him/her back to step 5.
 
@@ -26,4 +26,3 @@ User has created an existing account on the website
 
 ### Postconditions
 Once the customer has successfully registered and created an account, they will receive a confirmation email to validate registration.
-
