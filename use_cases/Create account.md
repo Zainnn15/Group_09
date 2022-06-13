@@ -11,7 +11,9 @@ User has come to the landing/home page of the website.
 **Main Flow**
 
 -The user will click on the sign-up button.
+
 -A form will be opened to get user details.
+
 -User will enter his/her details.
 An OTP will be sent to user’s email 
 User will enter the correct OTP.
