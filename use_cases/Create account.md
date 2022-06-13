@@ -19,11 +19,16 @@ User has come to the landing/home page of the website.
 
 **Alternate Flows**
 
-If any connection issues arise, preventing the message to be sent before it times out:
+- If any connection issues arise, preventing the message to be sent before it times out:
+
 The system will add an error message, warning the user that the request was not sent.
-If a user clicks on Close, instead of Submit:
+
+- If a user clicks on Close, instead of Submit:
+
 Home page opens up.
-The user enters wrong OTP
+
+- The user enters wrong OTP
+
 The system will add an error message, warning the user that the OTP was incorrect and the request was not sent.
 
 **Postconditions**
