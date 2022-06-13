@@ -1,7 +1,7 @@
 ## Employees/Managers editing items/product inventory (done by Rupin)
 
-### Actor (User)
-Employees/Managers with a valid account in the system.
+### Actor (Employees/Managers)
+Employees/Managers that are currently working at the grocery store and with a valid account in the system.
 
 ### Pre-conditions
 Employees/Managers work at the grocery store and are logged into the system. 
@@ -16,10 +16,9 @@ Employees/Managers work at the grocery store and are logged into the system.
 7. The system will successfully update the website and all the customers will be able to see the updated website.
 
 ### Alternate Flows
-- If any connection issues arise, preventing the message to be sent before it times out: 
-  1. The system will add an error message to the modal, warning the faculty that the message was not sent.
-- If a faculty clicks on **Close**, instead of **Submit**:
-  1. The modal disappears, and no further action is taken by the system. The contents of the modal will remain, though. Allowing the faculty to pick another group to send the message, for example.
+- If employees/managers forget to update the stock
+  1. The system will alert the employees/managers to check the stock (This alert is given every hour)
+-
 
 ### Postconditions
 After the system is updated with the correct stock the customers can buy the items without worrying about the items being out of stock.
