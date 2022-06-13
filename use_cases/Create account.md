@@ -1,4 +1,4 @@
-**Customers create an account (done by Sama)**
+**Customers Create an Account (done by Sama)**
 
 
 **Actor (User)**
