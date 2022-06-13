@@ -4,7 +4,7 @@
 Employees/Managers with a valid account in the system.
 
 ### Pre-conditions
-Employees/Managers are logged into the system. 
+Employees/Managers work at the grocery store and are logged into the system. 
 
 ### Main Flow
 1. The employee/manager clicks on **All Products**.
@@ -22,4 +22,4 @@ Employees/Managers are logged into the system.
   1. The modal disappears, and no further action is taken by the system. The contents of the modal will remain, though. Allowing the faculty to pick another group to send the message, for example.
 
 ### Postconditions
-After a faculty has succesfully send a message, each member of the group (as well as the faculty) receives an email with its contents.
+After the system is updated with the correct stock the customers can buy the items without worrying about the items being out of stock.
