@@ -26,4 +26,4 @@ User has created an existing account on the website
 
 ### Postconditions
 Once the customer has successfully completed their order and the payment has been approved, they will receive a confirmation email regarding their recent order.
-
+s
