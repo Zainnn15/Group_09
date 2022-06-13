@@ -1,27 +1,29 @@
-## Picking a time slot
+## Customer will create order (done by Berhan)
 
-
-### Actor (User)
-Student with a valid account in the system and an assigned CAPSTONE group.
+### Actor (Customer)
+User will successfully order groceries on the website 
 
 ### Pre-conditions
-Student is logged into the system. No other student from the same CAPSTONE group has already picked a timeslot for the group.
+User has created an existing account on the website
 
 ### Main Flow
-1. The student clicks on the **Meetings** tab on the BTR490 website.
-2. The system loads a list of meeting timeslots.
-3. The students clicks on an available timeslot.
-4. The system asks the student to confirm his/her choice.
-5. After the student confirms his/her choice, the system reloads the page and displays that the chosen timeslot belongs to the student's group.
-6. The system sends an email to all members of the group.
+1. The user will click on the login button.
+2. The user will enter username and password and successfully login
+3. The user will select the groceries they would like to purchase and add them to cart
+4. The user will add the correct shipping information to receive their groceries
+5. User will have to add payment method for checkout
+6. The user will successfully checkout their groceries
 
 ### Alternate Flows
-- If another student from the same group has already picked a timeslot:
-  1. After step 3, the system will let the student know that his/her group already has an assigned timeslot.
-- If a student clicks on a timeslot that has already been picked:
-  1. After step 3, the system will let the student know that the chosen timeslot is already taken. The system will allow the user to chose another timeslot, effectively sending him/her back to step 2.
-- If a student does not confirm his/her choice:
-  1. After step 4, the system will allow the user to chose another timeslot, effectively sending him/her back to step 2.
+
+○		If any connection issues arise, preventing the message to be sent before it times out:
+■	The system will add an error message, warning the user that the shipping address is not valid, effectively sending him/her back to step 4.
+■	The system will add an error message, warning the user that the payment method is not valid, effectively sending him/her back to step 5.
+
+○	The user enters wrong username/password
+■	The system will add an error message, warning the user that the username and password was incorrect and prompts the user to add the correct information
+
 
 ### Postconditions
-After a student has succesfully picked a timeslot, the database gets updated with the information about which group has picked which timeslot. Moreover, each member of the group (as well as the faculty) receives an email with all information about the meeting.
+Once the customer has successfully registered and created an account, they will receive a confirmation email to validate registration.
+
