@@ -1,19 +1,19 @@
 ## Employees/Managers editing items/product inventory (done by Rupin)
 
-### Actor (Employees/Managers)
-Faculty with a valid account in the system.
+### Actor (User)
+Employees/Managers with a valid account in the system.
 
 ### Pre-conditions
 Employees/Managers are logged into the system. 
 
 ### Main Flow
-1. The faculty clicks on the **Groups** tab on the BTR490 website.
-2. The system loads a list of all groups.
-3. The faculty clicks on a **send message** hyperlink below a group's list of members.
-4. The system brings up a model containing a form for the faculty to enter the email's subject and contents.
-5. The faculty fills up both fields.
-6. The faculty clicks on a **Submit** button to send the message to all students.
-7. After the system succesfuly sends the message, the modal disapears.
+1. The employee/manager clicks on **All Products**.
+2. The system loads a list of all the products that are currently in stock in the grocery store.
+3. The employee/manager clicks on **Out Of Stock**.
+4. The system changes the item that was clicked from in stock to out of stock.
+5. The employee/manager repeats until all of the stock is updated.
+6. The employee/manager clicks the **Update** button.
+7. The system will successfully update the website and all the customers will be able to see the updated website.
 
 ### Alternate Flows
 - If any connection issues arise, preventing the message to be sent before it times out: 
