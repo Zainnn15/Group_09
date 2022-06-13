@@ -68,7 +68,7 @@ Zain, Rupin, Sama, Berhan, members of group 9, and students at Seneca are going 
 
 ## 6. Organization/Stakeholders
 
-| Project Role    | Responsibilities---------------| Assigned to |
+| Project Role    | Responsibilities               | Assigned to |
 | ----------------| -------------------------------| ------------|
 | Project Manager | Design and maintain the website| Rupin, Zain, Berhan, Sama|
 | Project Sponsor | Covers the website costs       | Rupin, Zain, Berhan, Sama|
