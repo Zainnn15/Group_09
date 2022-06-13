@@ -4,7 +4,7 @@
 The delivery driver must pick up the given order from local gorecire store and deliver it to the customer
 
 ### Pre-conditions
-Customer has valid identification. Information about the customer must be accurate to deliver to residence.
+Driver has valid identification. Information about the driver must be accurate to send orders to residence.
 
 ### Main Flow
 1. The faculty clicks on the **Groups** tab on the BTR490 website.
