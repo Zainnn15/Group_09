@@ -18,8 +18,8 @@ Employees/Managers work at the grocery store and are logged into the system.
 ### Alternate Flows
 - If employees/managers forget to update the stock.
   1. The system will alert the employees/managers to check the stock (This alert is given every hour).
-- If the employee accidently updates a stock that is still in stock (When there is 50 or more of that item.
-  1. The system will give a message saying "are you sure" to make sure if it was an accident or not
+- If the employee accidently updates a stock that is still in stock (When there is 50 or more items).
+  1. The system will give a message saying "are you sure" to make sure if it was an accident or not.
 
 ### Postconditions
 After the system is updated with the correct stock the customers can buy the items without worrying about the items being out of stock.
