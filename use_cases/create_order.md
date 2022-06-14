@@ -15,14 +15,10 @@ User has created an existing account on the website
 6. The user will successfully checkout their groceries
 
 ### Alternate Flows
-
-○	If any connection issues arise, preventing the message to be sent before it times out:
-■	The system will add an error message, warning the user that the shipping address is not valid, effectively sending him/her back to step 4.
-■	The system will add an error message, warning the user that the payment method is not valid, effectively sending him/her back to step 5.
-
-○	The user enters wrong username/password
-■	The system will add an error message, warning the user that the username and password was incorrect and prompts the user to add the correct information
-
+- If any connection issues arise, preventing the message to be sent before it times out:
+      ■	The system will add an error message, warning the user that the shipping address is not valid, effectively sending him/her back to step 4
+      
+      ■	The system will add an error message, warning the user that the payment method is not valid, effectively sending him/her back to step 5
 
 ### Postconditions
 Once the customer has successfully registered and created an account, they will receive a confirmation email to validate registration.
