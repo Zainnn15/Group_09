@@ -22,9 +22,9 @@ Zain, Rupin, Sama, Berhan, members of group 9, and students at Seneca are going 
 3. Presentation to defend project in front of professor 
 4. Test the website at project defense
 5. Complete login/signup page 
-6. Complete add to cart feature
+6. Complete add to cart feature :[Link](https://github.com/CAPSTONE-2022-2023/Group_09/blob/8f9c6c08ed170f1d97631634699a2b298a7d1248/use_cases/create_order.md)
 7. Complete feature where employees will label products as out of stock which will also update for customers: [Link](https://github.com/CAPSTONE-2022-2023/Group_09/blob/main/use_cases/Edit_Product_Inventory.md)
-8. Complete feature where the delivery team can message employee if an item is missing from the order
+8. Complete feature where the delivery team can message employee if an item is missing from the order 
 9. Complete feature where it tells the customer when the order has been delivered to their house
 10. Complete feature where customer can refund an order 
 11. Complete feature where customers can message customer support
