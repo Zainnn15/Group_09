@@ -22,12 +22,15 @@ User has logged in the website.
 
 **Alternate Flows**
 - If any connection issues arise before adding the product to cart, preventing the message to be sent before it times out:
+
   The system will add an error message, warning the user that the request was not sent and product was not added to the cart.
 
 - If the selected product is out of stock:
+
   The user will be notified that this product is out of stock and cannot be added to the cart.
 
 - If the user is not logged in:
+
   The user will be notified that he/she needs to log in first.
 
 **Postconditions**
