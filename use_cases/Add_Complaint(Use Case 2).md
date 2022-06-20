@@ -15,10 +15,10 @@ Customer should be logged in and should have ordered something from the grocery 
 6. The system will send the complaint to the grocery store for reviewing.
 
 ### Alternate Flows
-- If customer accidently clicks **cancel** instead of **Submit Complaint**.
+- If customer accidently clicks **Cancel** instead of **Submit Complaint**.
   1. The system will give an pop up saying "Are you sure you want to disgard this complaint".
-- If the c
-  1. The system will give a message saying "are you sure" to make sure if it was an accident or not.
+- If the customer adds a complaint after the return policy date. 
+  1. The system will give an error message saying "Can not add complaint. The order has passed the return policy date".
 
 ### Postconditions
 The grocery store reviews the complaint and provides the customer with a refund or new product.
