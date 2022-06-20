@@ -1,4 +1,4 @@
-## Customers Adding an complaint (done by Rupin)
+## Customers Adding a Complaint (done by Rupin)
 
 ### Actor (Customer)
 Customers that buy products from the grocery store and with a valid account in the system.
