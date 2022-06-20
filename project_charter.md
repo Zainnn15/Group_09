@@ -6,7 +6,7 @@ For this project, we are creating an online grocery shopping website. On the gro
 
 May 24th, 2022
 
-Current Version: 1.1
+Current Version: 1.3
 
 Project managers (and sponsors): Zain, Rupin, Sama, Berhan
 
