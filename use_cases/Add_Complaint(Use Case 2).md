@@ -4,7 +4,7 @@
 Customers that buy products from the grocery store and with a valid account in the system.
 
 ### Pre-conditions
-Customer should be logged in and should have ordered something from the grocery store
+Customer should be logged in and should have ordered something from the grocery store.
 
 ### Main Flow
 1. The customer clicks on **View my Orders**.
