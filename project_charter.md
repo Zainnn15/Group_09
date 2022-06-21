@@ -62,7 +62,7 @@ Zain, Rupin, Sama, Berhan, members of group 9, and students at Seneca are going 
 
 ### 5.3 Constraints
 
-- No survey has been done to know the expected customer base of this product. We have to tailor our products to a general audience. 
+- No survey has been done to know the expected customer base of this product.This means we have to tailor our products to a general audience. 
 
 
 
