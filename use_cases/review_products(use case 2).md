@@ -16,12 +16,15 @@ The system loads up a box that gives a star rating pop up and a text box under i
 
 The customer gives a star rating and writes a review then submits the Review.
 
-The system will upload the review in there database and it will be checked.
+The system will upload the review in the database and it will be checked.
 
 ### Alternate Flows
-If customer accidently clicks Cancel instead of Submit Complaint.
-The system will give an pop up saying "Are you sure you want to disgard this complaint".
-If the customer adds a complaint after the return policy date.
-The system will give an error message saying "Can not add complaint. The order has passed the return policy date".
+1. Customer clicks No on the pop up.
+
+The system will give another pop up saying "Are you sure you do not want to a review".
+
+2. The customer gives a star rating but leaves the text box blank then submits the Review.
+
+The system will give a error pop up and say "Please leave a review in the textbox"
 ### Postconditions
-The grocery store reviews the complaint and provides the customer with a refund or new product.
+The grocery store will check all the reviews and see what they can do with the feedback.
