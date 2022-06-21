@@ -1,5 +1,5 @@
 ## Customers Reviewing products (done by Zain)
-Actor (Customer)
+### Actor (Customer)
 Customers that just purchased there products from the website and have an account in the system.
 
 Pre-conditions
