@@ -19,9 +19,9 @@ Customer should be logged in and should have an active order from the grocery st
 
 ### Alternate Flows
 - If customer accidently clicks **Cancel** instead of **Submit**.
-  1. The system will give an pop up saying "Are you sure you want to cancel this missing item issue".
+ 1. The system will give an pop up saying "Are you sure you want to cancel this missing item issue".
 
-  - If customer system displays that the item is OUT OF STOCK
+ - If customer system displays that the item is OUT OF STOCK
   1. The system will give an pop up saying "I'm sorry, Unfortunately this item is out of stock".
   2. The customer will have a choice to select through a new item to replace it or they can be given a refund for the price of that item.
 
