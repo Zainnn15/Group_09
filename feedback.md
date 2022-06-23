@@ -31,3 +31,19 @@ PErfect. Try using a more decisive language in the future: "developping" instead
 #### Example:
 - Milestone: Design and testing of a refunding order functionality completed
 - Deliverable: Refunding order functionality up and running (or pushed to production, or available to clients)
+
+
+## Task 4
+
+### Risks, Assumptions, and Constraints (4.5/5)
+Almost Perfect! The first assumption is merely a rewording of the second risk. It is fine to have it, as is, in either palce. But, it is not fine to have both of them.
+
+### README.md (5/5)
+No changes requested
+
+### Use Cases
+- **Customers Adding a Complaint (done by Rupin)** - Amost perfect! (9/10) - The postocondition skips a step. The complaint gets stored in the system's database. Then, and only then, the store can act on it. -1
+- **Customers Is Missing An Item (done by Berhan)** - Well done! (8/10) - The actor should simply be a costumer. That this customer has an account and has ordered groceries should be listed as preconditions. -1.5 Item 8 states that the missing item will be sent immediately, but the postconditions alert that it will either be sent or refunded. Postoconditions should always refer to the main flow (not alternate flows) -0.5
+- **User adding product to the cart (done by Sama)** Perfect (10/10) - I believe the user should be able to add a product to the cart, and set its quantity, without having to first go to the product details page. The less required clicks, the better the UI.
+- **Customers Reviewing products (done by Zain)** - (6.5/10) The actor should simply be a customer. That this customer has purchased groceries should be listed as preconditions. -1.5 The main flow is confusing. As it starts with the users clicking on Purchase, I thought it was about reviewing their order. But, later, the main flow makes it seems like the customer is giving feedback on the delivery. -1 The postcondition skips a step. The review gets stored in the system's database. Then, and only then, the store can act on it. -1
+
