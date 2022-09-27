@@ -1,4 +1,4 @@
-# Grocery Store Website
+# Click (Rupin did all the work)
 
 ## Working Agreement
 **Team #:** 3  
