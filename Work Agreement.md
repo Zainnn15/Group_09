@@ -1,4 +1,4 @@
-# Click 
+# Grocery Store Website
 
 ## Working Agreement
 **Team #:** 3  
