@@ -1,4 +1,4 @@
-# Click (Rupin did all the work)
+# Click 
 
 ## Working Agreement
 **Team #:** 3  
