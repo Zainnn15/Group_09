@@ -20,7 +20,7 @@ A. Using Github
 **Team Meetings:**  
 Fridays: 9 20am - 9 40am  
 
-** Team Problems:**        
+** Team Problems: **        
 What to do when a member misses a meeting
 If a team member misses a meeting we will contact that person and see what happened and depending on the reasoning we will give them a warning if it is a reasonable   reason to miss the meeting. However, if they continue to miss the meetings many times then we will have to give the person more work as a punishment.  
 
