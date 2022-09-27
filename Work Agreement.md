@@ -13,12 +13,12 @@ A. We will share information through MS Teams, Discord, Github, email and meetin
 2. Preferred form of contact and overall availability  
 A.  We will contact through discord, and MS Teams     
 3. Programming Practices to be adopted  
-A.  HTML, CSS, JS, SQL    
+A.  HTML, CSS, JS, MYSQL, Angular, Node    
 4. How to merge the code into shared repository  
 A. Using Github  
 
 **Team Meetings:**  
-Fridays: 9 20am - 9 40am  
+Fridays: 9:20am - 9:40am  
 
 **Team Problems:**        
 What to do when a member misses a meeting
