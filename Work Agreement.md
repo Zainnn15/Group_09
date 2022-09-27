@@ -4,8 +4,8 @@
 Team #: 3  
 Project Title: Plus Ultra Grocery   
 Project Time Frame: 2023  
-Team Members: Berhan, Rupin, Sama, Zaiini Panini   
-Team Leadership: Berthan , Rupin, Sama,  Zaiini Panini (Everyones a leader)  
+Team Members: Berhan, Rupin, Sama, Zain 
+Team Leadership: Berthan , Rupin, Sama,  Zain (Everyones a leader)  
 
 **Team Functions:**    
 1. Collaboration and Sharing   
@@ -27,4 +27,9 @@ If a team member misses a meeting we will contact that person and see what happe
 **Team Commitment**  
 The undersigned members agree to work together on the project until the end of the BTS630 next Semester.  They recognize as a team and individually that they are responsible for the quality of all deliverables.
 
-
+| Name             | Date            |
+| ---------------- | --------------- |
+| Zain             | 2022/09/27      |
+| Rupin            | 2022/09/27      |
+| Berhan           | 2022/09/27      |
+| Sama             | 2022/09/27      |
