@@ -1,11 +1,11 @@
-Merged into the shared repository
+- Merged into the shared repository
 
-Peer Reviewed
+- Peer Reviewed
 
-Met acceptance criteria
+- Met acceptance criteria
 
-Tested on all intended platforms
+- Tested on all intended platforms
 
-Automated tests created
+- Automated tests created
 
-Required documentation was completed
+- Required documentation was completed
