@@ -1,11 +1,11 @@
 # Grocery Store Website
 
 ## Working Agreement
-Team #: 3  
-Project Title: Click  
-Project Time Frame: 2023  
-Team Members: Berhan, Rupin, Sama, Zain 
-Team Leadership: Berthan , Rupin, Sama,  Zain (Everyones a leader)  
+**Team #:** 3  
+**Project Title:** Click  
+**Project Time Frame:** 2023  
+**Team Members:** Berhan, Rupin, Sama, Zain 
+**Team Leadership:** Berthan , Rupin, Sama,  Zain (Everyones a leader)  
 
 **Team Functions:** 
 1. Collaboration and Sharing.     
