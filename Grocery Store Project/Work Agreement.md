@@ -1,5 +1,4 @@
 # Grocery Store Website
-
 ## Working Agreement
 **Team #:** 3  
 **Project Title:** Click  
