@@ -20,8 +20,8 @@ A. HTML, CSS, JS, MYSQL, Angular, Node.
 
 **Team Meetings:**  
 Tuesdays: 10:30am - 11:30am
-Fridays: 9:20am - 9:40am  
-Fridays: 10:00am - 11:00am
+Fridays: 9:20am - 9:40am    
+Fridays: 10:00am - 11:00am  
 Sundays: 12:00pm - 1:00pm
 
 **Team Problems:**        
