@@ -15,7 +15,7 @@ A.  We will contact through discord, and MS Teams.
 A. We will practices that we will adopt are: Indentations, Portability, Reusability and scalability, Class and function naming conventions, Variable naming conventions, Clear and concise comments, and testing.     
 4. How to merge the code into shared repository.    
 A. Using Github.    
-5. What programming tools will we use.
+5. What programming tools will we use.  
 A. HTML, CSS, JS, MYSQL, Angular, Node.  
 
 **Team Meetings:**  
