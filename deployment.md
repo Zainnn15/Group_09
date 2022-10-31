@@ -16,19 +16,19 @@
 
 9 - Go to https://vercel.com/
 
-10 - Sign up / login to the account
+11 - Sign up / login to the account
 
-10 - Click import "Create a New Project"
+12 - Click import "Create a New Project"
 
-11 - Connect your Github repository to Vercel 
+13 - Connect your Github repository to Vercel 
 
-12 - Give access to your repositories
+14 - Give access to your repositories
 
-13 - Pick the correct project repository
+15 - Pick the correct project repository
 
-14 - Write the project name
+16 - Write the project name
 
-15 - Check if the framework preset, build and output settings, and environment variables are correct 
+17 - Check if the framework preset, build and output settings, and environment variables are correct 
 
 16 - Click the deploy button
 
