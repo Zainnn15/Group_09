@@ -20,7 +20,7 @@
 
 11 - Click import "Create a New Project"
 
-12 - Connect your Github repository to Vercel 
+12 - Connect your GitHub repository to Vercel 
 
 13 - Give access to your repositories
 
