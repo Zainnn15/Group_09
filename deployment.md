@@ -16,7 +16,7 @@
 
 9 - Go to https://vercel.com/
 
-10 - Sign up / Login to the account
+10 - Sign up / log in to the account
 
 11 - Click import "Create a New Project"
 
