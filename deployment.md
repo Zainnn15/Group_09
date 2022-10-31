@@ -30,6 +30,9 @@
 
 16 - Check if the framework preset, build and output settings, and environment variables are correct 
 
-177 - Click the deploy button
+17 - Click the deploy button
 
-188 - Your project will automatically be deployed and you can click the visit button to visit the website
+18 - Your project will automatically be deployed and you can click the visit button to visit the website
+
+
+gregreger efewfwe efwf
