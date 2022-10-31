@@ -14,7 +14,7 @@
 
 8 - Delete the Branch
 
-9 - Go to https://vercel.com/new
+9 - Go to https://vercel.com/
 
 10 - Sign up / login to the account
 
