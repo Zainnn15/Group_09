@@ -18,6 +18,8 @@
 
 10 - Sign up / login to the account
 
+10 - Click import "Create a New Project"
+
 11 - Connect your Github repository to Vercel 
 
 12 - Give access to your repositories
