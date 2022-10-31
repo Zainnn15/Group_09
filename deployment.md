@@ -1,4 +1,4 @@
-1 -  Initialize the repository in the code editor (Visual Studio Code)
+1 - Initialize the repository in the code editor (Visual Studio Code)
 
 2 - Create a branch with a proper name
 
@@ -32,4 +32,4 @@
 
 177 - Click the deploy button
 
-188 - Your project will automatically be deployed and you can click the visit button to visit the website.
+188 - Your project will automatically be deployed and you can click the visit button to visit the website
