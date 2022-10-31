@@ -18,7 +18,7 @@
 
 10 - Sign up / log in to the account
 
-11 - Click import "Create a New Project"
+11 - Click import "Create a New Project."
 
 12 - Connect your GitHub repository to Vercel 
 
@@ -32,4 +32,4 @@
 
 17 - Click the deploy button
 
-18 - Your project will automatically be deployed and you can click the visit button to visit the website
+18 - Your project will automatically be deployed, and you can click the visit button to visit the website
