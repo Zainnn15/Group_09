@@ -35,4 +35,4 @@
 18 - Your project will automatically be deployed, and you can click the visit button to visit the website
 
 ## Deployment Video
-https://youtu.be/phurtMe1q7c
+https://youtu.be/tvvaXekv47I
